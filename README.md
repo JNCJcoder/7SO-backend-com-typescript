@@ -6,7 +6,7 @@
 
 <h3 align="center">InstaRocket - Backend</h4>
 
-<h4 align="center">Rescrita do backend da 7° Semana Omnistack usando typescript, typeORM e SQLITE</h4>
+<h4 align="center">Reescrita do backend da 7° Semana Omnistack usando typescript, typeORM e SQLITE</h4>
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
@@ -15,7 +15,7 @@
 
 ## 💻 Informações:
 
-Backend da 7° Semana Omnistack rescrito usando Typescript, typeORM, SQLite e UUID com algumas alterações no codigo.
+Backend da 7° Semana Omnistack reescrito usando Typescript, typeORM, SQLite e UUID com algumas alterações no codigo.
 
 As Imagens que recebem upload usam um nome aleatorio baseado no timestamp(UUID V1).
 
