@@ -13,6 +13,15 @@
   </a>
 </p>
 
+## 🚩 Documentação Basica
+
+| Rotas           | HTTP   | Descrição               |
+| --------------- | ------ | ----------------------- |
+| /               | GET    | Retorna a Query name    |
+| /posts          | GET    | Listar Postagens        |
+| /posts          | POST   | Criar uma Postagem      |
+| /posts/:id/like | POST   | Dar Like a uma Postagem |
+
 ## 💻 Informações:
 
 Backend da 7° Semana Omnistack reescrito usando Typescript, typeORM, SQLite e UUID com algumas alterações no codigo.
