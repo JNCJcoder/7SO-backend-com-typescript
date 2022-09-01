@@ -28,7 +28,7 @@ Backend da 7° Semana Omnistack reescrito usando Typescript, typeORM, SQLite e U
 
 As Imagens que recebem upload usam um nome aleatorio baseado no timestamp(UUID V1).
 
-Esse backend foi feito para uso com o frontend e mobile da 7° Semana Omnistack:  [InstaRocket](https://github.com/drawciamage/semana-omnistack-7).
+Esse backend foi feito para uso com o frontend e mobile da 7° Semana Omnistack:  [InstaRocket](https://github.com/JNCJcoder/semana-omnistack-7).
 
 > 🚩 Foi utilizado o gerenciador de pacotes [Yarn](https://yarnpkg.com/pt-BR/) no Backend, Frontend e Mobile.
 
